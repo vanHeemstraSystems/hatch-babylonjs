@@ -1,7 +1,10 @@
 Building Our Application
 ========================
 
-Goal: a BabylonJS project within a Python Hatch monorepo using Nx Cloud. This setup will separate scenes, models, and core framework components modularly while maintaining a clean organization.
+Goal 
+****
+
+A BabylonJS project within a Python Hatch monorepo using Nx Cloud. This setup will separate scenes, models, and core framework components modularly while maintaining a clean organization.
 
 Here's a complete file directory structure for your project, including a "Stand-up Room" scene and a "Scrum Master" character:
 
