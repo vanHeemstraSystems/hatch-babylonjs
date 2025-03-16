@@ -1,8 +1,9 @@
 Feature 7: Scrum Master Character Model Integration (1 hour)
 ============================================================
 
-**README.md:**
-```markdown
+README.md:
+
+``
 # Scrum Master Character Integration
 
 Create and integrate the "Scrum Master" character model.
@@ -16,8 +17,8 @@ Create and integrate the "Scrum Master" character model.
 ## Verification
 - Run character tests with `npx nx test babylon-models`
 - Load character in model viewer application
-```
+``
 
-**Tests:**
+Tests:
 - Character loading test: Verify character loads correctly with textures
 - Animation test: Verify character animations play correctly

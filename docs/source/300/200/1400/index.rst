@@ -1,8 +1,9 @@
 Feature 14: Model Viewer Implementation (1 hour)
 ================================================
 
-**README.md:**
-```markdown
+README.md:
+
+``
 # Model Viewer Implementation
 
 Create a dedicated model viewer application.
@@ -15,8 +16,8 @@ Create a dedicated model viewer application.
 ## Verification
 - Run `npx nx serve model-viewer` to start viewer
 - Test loading and inspecting the Scrum Master model
-```
+``
 
-**Tests:**
+Tests:
 - Model loading test: Verify models load correctly
 - Animation preview test: Verify animations can be previewed

@@ -1,8 +1,9 @@
 Feature 10: Scene and Model Integration (1 hour)
 ================================================
 
-**README.md:**
-```markdown
+README.md:
+
+``
 # Scene and Model Integration
 
 Integrate the Stand-up Room scene with the Scrum Master character.
@@ -15,8 +16,8 @@ Integrate the Stand-up Room scene with the Scrum Master character.
 ## Verification
 - Load integrated scene in viewer application
 - Verify character appears correctly in the scene
-```
+``
 
-**Tests:**
+Tests:
 - Integration test: Verify scene loads with character
 - Interaction test: Verify basic interactions work between scene elements

@@ -1,8 +1,9 @@
 Feature 4: Main Viewer Application Shell (1 hour)
 =================================================
 
-**README.md:**
-```markdown
+README.md:
+
+``
 # Viewer Application Shell
 
 Create the main BabylonJS viewer application that will load and render scenes.
@@ -16,8 +17,8 @@ Create the main BabylonJS viewer application that will load and render scenes.
 ## Verification
 - Run `npx nx serve babylon-viewer` to start development server
 - Verify application loads in browser without errors
-```
+``
 
-**Tests:**
+Tests:
 - App initialization test: Verify the application initializes correctly
 - Scene loader test: Verify the dynamic scene loader can import scene modules

@@ -1,8 +1,9 @@
 Feature 11: Build Pipeline Setup (1 hour)
 =========================================
 
-**README.md:**
-```markdown
+README.md:
+
+``
 # Build Pipeline Setup
 
 Configure the build pipeline for consistent deployment.
@@ -15,8 +16,8 @@ Configure the build pipeline for consistent deployment.
 ## Verification
 - Run `python scripts/build.py` to build the entire project
 - Verify output artifacts are correctly generated
-```
+``
 
-**Tests:**
+Tests:
 - Build verification test: Ensure all components build correctly
 - Cache validation test: Verify Nx Cloud cache correctly stores and retrieves build artifacts

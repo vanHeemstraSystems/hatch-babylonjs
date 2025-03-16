@@ -1,8 +1,9 @@
 Feature 13: Scene Editor Basic Implementation (1 hour)
 ======================================================
 
-**README.md:**
-```markdown
+README.md:
+
+``
 # Scene Editor Basic Implementation
 
 Create a basic scene editor application.
@@ -15,8 +16,8 @@ Create a basic scene editor application.
 ## Verification
 - Run `npx nx serve scene-editor` to start editor
 - Test creating and modifying a simple scene
-```
+``
 
-**Tests:**
+Tests:
 - Editor initialization test: Verify editor loads correctly
 - Scene saving test: Verify scenes can be saved and loaded

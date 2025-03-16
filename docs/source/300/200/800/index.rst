@@ -1,8 +1,9 @@
 Feature 8: Python-JavaScript Bridge Implementation (1 hour)
 ===========================================================
 
-**README.md:**
-```markdown
+README.md:
+
+``
 # Python-JavaScript Bridge
 
 Implement the bridge between Python and JavaScript for seamless integration.
@@ -15,8 +16,8 @@ Implement the bridge between Python and JavaScript for seamless integration.
 ## Verification
 - Run bridge tests with `pytest python/babylon_bridge/tests/`
 - Verify data passing between Python and JS environments
-```
+``
 
-**Tests:**
+Tests:
 - Serialization test: Verify complex Python objects serialize correctly to JS
 - Callback test: Verify JS callbacks can be invoked from Python

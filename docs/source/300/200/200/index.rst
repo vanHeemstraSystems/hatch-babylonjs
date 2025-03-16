@@ -1,8 +1,9 @@
 Feature 2: Python Package Foundation (1 hour)
 =============================================
 
-**README.md:**
-```markdown
+README.md:
+
+``
 # Python Package Foundation
 
 Set up the core Python packages that will support our BabylonJS integration.
@@ -15,8 +16,8 @@ Set up the core Python packages that will support our BabylonJS integration.
 ## Verification
 - Run `pytest python/babylon_bridge/tests/`
 - Run `hatch run lint:style` to verify code style
-```
+``
 
-**Tests:**
+Tests:
 - Basic bridge import test: Test importing the bridge module
 - Asset pipeline command test: Verify CLI commands register correctly

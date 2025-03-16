@@ -1,8 +1,9 @@
 Feature 6: Asset Pipeline Implementation (1 hour)
 =================================================
 
-**README.md:**
-```markdown
+README.md:
+
+``
 # Asset Pipeline Implementation
 
 Create the Python-based asset pipeline for processing models and textures.
@@ -15,8 +16,8 @@ Create the Python-based asset pipeline for processing models and textures.
 ## Verification
 - Process test assets with `python -m asset_pipeline.cli process assets/textures/test.png`
 - Verify output formats and optimization
-```
+``
 
-**Tests:**
+Tests:
 - Texture processing test: Verify texture optimization and conversion
 - Mesh processing test: Verify model conversion from Blender to glTF/Babylon format
