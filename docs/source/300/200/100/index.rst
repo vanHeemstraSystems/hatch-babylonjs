@@ -9,14 +9,16 @@ README.md
 This feature establishes the basic project structure for our BabylonJS-Python Hatch monorepo using Nx Cloud.
 
 **Tasks**
-* Set up core directory structure
-* Create initial pyproject.toml with Hatch configuration
-* Configure Nx Cloud with nx.json
-* Create README.md with project overview
+
+#. Set up core directory structure
+#. Create initial pyproject.toml with Hatch configuration
+#. Configure Nx Cloud with nx.json
+#. Create README.md with project overview
 
 **Verification**
-* Run `hatch env show` to verify Hatch environment setup
-* Run `npx nx graph` to verify Nx workspace recognition
+
+#. Run `hatch env show` to verify Hatch environment setup
+#. Run `npx nx graph` to verify Nx workspace recognition
 
 Tests
 *****
