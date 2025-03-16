@@ -17,8 +17,8 @@ This feature establishes the basic project structure for our BabylonJS-Python Ha
 
 **Verification**
 
-#. Run `hatch env show` to verify Hatch environment setup
-#. Run `npx nx graph` to verify Nx workspace recognition
+#. Run `` hatch env show`` to verify Hatch environment setup
+#. Run ``npx nx graph`` to verify Nx workspace recognition
 
 Tests
 *****
