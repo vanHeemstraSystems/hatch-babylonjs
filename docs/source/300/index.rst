@@ -13,7 +13,7 @@ Goal: a BabylonJS project within a Python Hatch monorepo using Nx Cloud. This se
 Here's a complete file directory structure for your project, including a "Stand-up Room" scene and a "Scrum Master" character:
 
 
-```
+``
 
 hatch-project/
 
@@ -237,4 +237,4 @@ hatch-project/
 
         └── ...
 
-```
+``
