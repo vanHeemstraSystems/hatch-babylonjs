@@ -1,20 +1,12 @@
 Building Our Application
 ========================
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents
-
-   100/index
-   200/index
-
 Goal: a BabylonJS project within a Python Hatch monorepo using Nx Cloud. This setup will separate scenes, models, and core framework components modularly while maintaining a clean organization.
 
 Here's a complete file directory structure for your project, including a "Stand-up Room" scene and a "Scrum Master" character:
 
 
 ``
-
 hatch-project/
 
 ├── pyproject.toml                  # Hatch project configuration
@@ -238,3 +230,10 @@ hatch-project/
         └── ...
 
 ``
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents
+
+   100/index
+   200/index
