@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+hatch-babylonjs
+# Hatch BabylonJS
 
-> Slugline
+> A Hatch implementation of BabylonJS
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)

@@ -1,5 +1,5 @@
-Welcome to Your Project Documentation
-======================================
+Welcome to Hatch BabylonJS Documentation
+========================================
 
 .. toctree::
    :maxdepth: 2
