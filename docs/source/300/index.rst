@@ -1,10 +1,10 @@
 Building Our Application
 ========================
 
-Introduction
-************
+References
+**********
 
-Based on `Building React Apps in an Nx Monorepo <https://nx.dev/getting-started/tutorials/react-monorepo-tutorial>`_.
+- `Building React Apps in an Nx Monorepo <https://nx.dev/getting-started/tutorials/react-monorepo-tutorial>`_
 
 Learning Objectives
 *******************
